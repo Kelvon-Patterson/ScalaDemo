@@ -19,8 +19,9 @@ object Math{
 
 
   def divide(x: Int, y: Int)  = x / y;
+  //These are four basic different ways to write functions in scala
 
-//These are four basic different ways to write functions in scala
+
 
 
   def main(args: Array[String]): Unit = {
