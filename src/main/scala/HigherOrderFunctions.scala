@@ -7,6 +7,11 @@ val result = math(50, 20, 10, (x,y) => x + y)
     val result2 = math(50, 20, 10, _+_) //wildcard
     println(result)
     println(result2)
+
+
+
+
+
   }
 
 }
